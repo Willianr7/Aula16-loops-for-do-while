@@ -18,7 +18,7 @@ public class Ex07 {
 				maiorNumero = numeroInserido;
 			}
 		}
-		System.out.println(" O maior numero digitado foi: " +maiorNumero);
+		System.out.println(" O maior numero inserido e:  " +maiorNumero);
 	}
 
 }
